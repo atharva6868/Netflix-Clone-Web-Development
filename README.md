@@ -2,6 +2,7 @@
 
 A fully responsive video streaming website inspired by platforms like **Netflix, Hotstar, and Amazon Prime**. This project is built using **HTML, CSS**, and **jQuery**, designed to simulate a modern UI/UX for video content delivery.
 
+<img width="1908" height="953" alt="Yuva 2" src="https://github.com/user-attachments/assets/a889f4de-8996-4f82-b1e5-a88eb58b3fc7" />
 
 
 ## 🚀 Features
